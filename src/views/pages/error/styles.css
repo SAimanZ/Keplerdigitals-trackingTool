@@ -1,0 +1,15 @@
+.logo {
+  transition: transform 1s ease-in-out, opacity 1s ease-in-out;
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.logo.show {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.logo.hide {
+  transform: translateY(-100%);
+  opacity: 0;
+}

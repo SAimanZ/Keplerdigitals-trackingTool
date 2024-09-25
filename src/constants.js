@@ -1,0 +1,7 @@
+const BLOCKCHAIN = {
+  WALLET_ADDRESS: '0x6f3B51bd5B67F3e5bca2fb32796215A796B79651',
+  ERC20: '0x44405b9819dd99b331A317f5c76667EcCcf19072',
+  BLOCK_EXPLORER_URL: 'https://amoy.polygonscan.com/'
+};
+
+export default BLOCKCHAIN;
